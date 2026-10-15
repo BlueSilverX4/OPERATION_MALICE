@@ -1,0 +1,4 @@
+{"timestamp": "2026-08-26T10:25:03.412392", "event": "MALLICE_ALERT_RECEIVED", "payload": {"rule_id": 100050, "description": "MALLICE C2 Detected", "src_ip": "192.168.56.100"}}
+{"timestamp": "2026-08-26T10:25:27.960143", "event": "MALLICE_ALERT_RECEIVED", "payload": {"rule_id": 100050, "description": "MALLICE C2 Detected", "src_ip": "192.168.56.100"}}
+{"timestamp": "2026-08-26T10:40:49.081497", "event": "MALLICE_ALERT_RECEIVED", "payload": {"rule_id": 100051, "severity": 12, "description": "MALLICE - Red Ransom Shadow Copy Deletion Detected", "src_ip": "192.168.56.100", "mitre_id": "T1490", "action": "HOST_ISOLATED"}}
+{"timestamp": "2026-08-26T10:41:15.885561", "event": "MALLICE_ALERT_RECEIVED", "payload": {"rule_id": 100051, "severity": 12, "description": "MALLICE - Red Ransom Shadow Copy Deletion Detected", "src_ip": "192.168.56.100", "mitre_id": "T1490", "action": "HOST_ISOLATED"}}

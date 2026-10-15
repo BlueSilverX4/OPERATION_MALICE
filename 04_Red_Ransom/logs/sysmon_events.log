@@ -1,0 +1,2 @@
+2026-08-26T10:40:42.282424 WinEvtLog: Sysmon Event ID 1: Process Create: CommandLine: vssadmin.exe delete shadows /all /quiet
+2026-08-26T10:41:13.175838 WinEvtLog: Sysmon Event ID 1: Process Create: CommandLine: vssadmin.exe delete shadows /all /quiet

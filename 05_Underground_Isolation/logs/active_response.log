@@ -1,0 +1,8 @@
+[2026-08-26T09:55:39.477809] [INIT] M∀LICE Active Response Executed by Wazuh Manager.
+[2026-08-26T09:55:53.505777] [SUCCESS] Isolated malicious host IP: 192.168.56.100 via iptables.
+[2026-08-26T10:40:46.178744] [INIT] M∀LICE Active Response Executed by Wazuh Manager.
+[2026-08-26T10:40:47.879152] [SUCCESS] Isolated malicious host IP: 192.168.56.100 via iptables.
+[2026-08-26T10:41:15.118487] [INIT] M∀LICE Active Response Executed by Wazuh Manager.
+[2026-08-26T10:41:15.441611] [SUCCESS] Isolated malicious host IP: 192.168.56.100 via iptables.
+[2026-08-29T05:00:20.073337] [INIT] M∀LICE Active Response Executed by Wazuh Manager.
+[2026-08-29T05:00:20.843679] [SUCCESS] Isolated malicious host IP: 192.168.56.10 via iptables.

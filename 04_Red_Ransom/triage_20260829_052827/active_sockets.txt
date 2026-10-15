@@ -1,0 +1,16 @@
+Netid State  Recv-Q Send-Q                     Local Address:Port  Peer Address:PortProcess
+udp   UNCONN 0      0                            224.0.0.251:5353       0.0.0.0:*    users:(("brave",pid=3114,fd=37))
+udp   UNCONN 0      0                                0.0.0.0:5353       0.0.0.0:*   
+udp   UNCONN 0      0                                   [::]:5353          [::]:*   
+udp   UNCONN 0      0      [fe80::f6b7:e2ff:fe3a:8904]%wlan0:546           [::]:*   
+tcp   LISTEN 0      128                              0.0.0.0:55000      0.0.0.0:*   
+tcp   LISTEN 0      128                              0.0.0.0:1515       0.0.0.0:*   
+tcp   LISTEN 0      128                              0.0.0.0:1514       0.0.0.0:*   
+tcp   LISTEN 0      4096                           127.0.0.1:12345      0.0.0.0:*   
+tcp   LISTEN 0      511                              0.0.0.0:443        0.0.0.0:*   
+tcp   LISTEN 0      4096                           127.0.0.1:39475      0.0.0.0:*   
+tcp   LISTEN 0      4096                                   *:11434            *:*   
+tcp   LISTEN 0      4096                                   *:3100             *:*   
+tcp   LISTEN 0      4096                                   *:9096             *:*   
+tcp   LISTEN 0      4096                                   *:3000             *:*   
+tcp   LISTEN 0      4096                                   *:60000            *:*   

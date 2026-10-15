@@ -1,0 +1,4 @@
+2026-10-15 08:28:31,267 [INFO] Orchestrator: Authorized simulation rollback execution.
+2026-10-15 08:28:41,546 [INFO] Orchestrator: Authorized containment execution.
+2026-10-15 08:28:41,547 [INFO] Orchestrator: Simulated network isolation executed.
+2026-10-15 08:28:52,945 [INFO] Orchestrator: Operator denied or aborted containment action.

@@ -1,0 +1,1 @@
+Write-Host "[MALLICE] Initializing White Binder Dropper..."; Start-Process calc.exe

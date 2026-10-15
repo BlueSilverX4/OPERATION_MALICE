@@ -1,0 +1,20 @@
+<group name="windows,sysmon,ransomware,">
+  <!-- Detect Volume Shadow Copy Deletion (T1490) -->
+  <rule id="100051" level="12">
+    <if_sid>18100</if_sid>
+    <match>vssadmin.exe delete shadows|vssadmin delete shadows|wmic shadowcopy delete|wbadmin delete catalog</match>
+    <description>MALLICE - Red Ransom Volume Shadow Copy Deletion Detected</description>
+    <mitre>
+      <id>T1490</id>
+    </mitre>
+  </rule>
+
+  <!-- Detect Mass Encryption / Ransom Note Extension (.malice) -->
+  <rule id="100052" level="10">
+    <match>README_RESTORE</match>
+    <description>MALLICE - Red Ransom Ransom Note Artifact Created</description>
+    <mitre>
+      <id>T1486</id>
+    </mitre>
+  </rule>
+</group>
